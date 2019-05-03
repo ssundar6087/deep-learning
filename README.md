@@ -32,6 +32,7 @@
 - [ ] FastAI's Swift for TF lessons:
   * Learn Swift: 
   * Create a small library based on swift for TF for Computer Vision
+- [ ] Deep Dive into Tensorflow Internals: https://www.youtube.com/watch?v=kVEOCfBy9uY&list=PLOJ0FSJhiKlw9ZokOzxOOnxK6PQuU7YIx
 ### Pytorch
 - [x] Official Pytorch tutorial: https://pytorch.org/tutorials/
 - [ ] Introduction to Deep learning with Pytorch: https://www.udacity.com/course/deep-learning-pytorch--ud188
