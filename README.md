@@ -2,7 +2,7 @@
 ## Foundations
 ### Linear Algebra
  - [ ] Computational Linear Algebra for Coders: https://github.com/fastai/numerical-linear-algebra/blob/master/README.md  
- - [ ] Gilbert Strang's Linear Algebra and Learning from Data book (course to appear in OCW sometime this year)           
+ - [ ] Gilbert Strang's Linear Algebra and Learning from Data book:  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/       
 ### Calculus
 - [ ] Multivariate Calculus: https://www.coursera.org/learn/multivariate-calculus-machine-learning 
 ## Generic Machine Learning 
